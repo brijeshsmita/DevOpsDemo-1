@@ -8,7 +8,5 @@ Function2()
    {
          //Initial Code
    }
-
-
 }
 
